@@ -8,6 +8,6 @@ fun main(){
     val decimal2 = 123.123F //float type
 
     val char1 = 'a' // charictor type
-    println(char1 + 1) // bë¡œ ì¶œë ¥
+    println(char1 + 1) // b·Î Ãâ·Â
     
 }
